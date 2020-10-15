@@ -1,7 +1,7 @@
 # woman_cosmetics
-woman_cosmetics
+国内外女性化妆品品牌
 
-# 国内常用女性化妆品品牌及购买推荐
+# 购买推荐
 ```
 shu uemura 植村秀 眉笔口红粉底
 Nars 纳斯 腮红口红散粉高光
